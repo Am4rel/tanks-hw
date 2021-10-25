@@ -1,0 +1,33 @@
+.details-thumb {
+    display: flex;
+    align-items: flex-start;
+}
+
+.details-table-thumb, .details-image-thumb {
+    width: 40%;
+}
+
+.title-thumb{
+    display: flex;
+    align-items: center;
+}
+
+.details-flag {
+    margin-right: 10px;
+}
+
+.details-btn {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+}
+
+.details-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.details-cell {
+    padding: 7px;
+    border: 1px solid #b3a6a6;
+}
